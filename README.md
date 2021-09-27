@@ -28,8 +28,8 @@ Here's the probabilites to get that ore from each mined ore
 You'll still get multiple redstone and lapis like vanilla
 
 ***Coal ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |cobbelstone|1|2,17%|
 |coal|10|21,73%|
 |raw iron|5|10,86%|
@@ -42,8 +42,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|46|100%|
 
 ***Iron ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |cobbelstone|1|2,17%|
 |coal|5|10,86%|
 |raw iron|10|21,73%|
@@ -56,8 +56,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|46|100%|
 
 ***Copper ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |cobbelstone|1|2,17%|
 |coal|5|10,86%|
 |raw iron|5|10,86%|
@@ -70,8 +70,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|46|100%|
 
 ***Gold ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |coal|5|11,11%|
 |raw iron|5|11,11%|
 |raw copper|5|11,11%|
@@ -83,8 +83,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|45|100%|
 
 ***Redstone ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |coal|5|11,11%|
 |raw iron|5|11,11%|
 |raw copper|5|11,11%|
@@ -96,8 +96,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|45|100%|
 
 ***Emerald ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |coal|5|10,86%|
 |raw iron|5|10,86%|
 |raw copper|5|10,86%|
@@ -110,8 +110,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|46|100%|
 
 ***Lapis lazuli ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |coal|5|10,86%|
 |raw iron|5|10,86%|
 |raw copper|5|10,86%|
@@ -124,8 +124,8 @@ You'll still get multiple redstone and lapis like vanilla
 |total|46|100%|
 
 ***Diamond ore :***
-|items       |weight|pourcentage|
-|:----------:|-----:|----------:|
+|items|weight|pourcentage|
+|:-:|-:|-:|
 |coal|5|10,86%|
 |raw iron|5|10,86%|
 |raw copper|5|10,86%|
