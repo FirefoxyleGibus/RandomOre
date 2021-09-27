@@ -131,7 +131,7 @@ You'll still get multiple redstone and lapis like vanilla
 |raw copper|5|10,86%|
 |raw gold|5|10,86%|
 |redstone|5|10,86%|
-|emerald|10|10,86%|
+|emerald|5|10,86%|
 |lapis lazuli|5|10,86%|
 |diamond|10|21,73%|
 |netherite ingot|1|2,17%|
