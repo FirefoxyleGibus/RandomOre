@@ -6,7 +6,7 @@ It randomises ores
 
 When you break an ore (coal, iron, etc), it will drop a random ore (coal, raw iron, etc)
 
-Look "**Probabilities**" to know your chances to get some or some ore
+Look "[**Probabilities**](https://github.com/FirefoxyleGibus/RandomOre#probabilites)" to know your chances to get some or some ore
 
 ## Effect of enchanting
 Fortune still works the same except for cobblestone and netherite drops
